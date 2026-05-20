@@ -1,11 +1,6 @@
 # Matemática Actuarial 1 2026
 
 
-# Programa del curso
-<div id='id-programa'/>
-
-[Programa del curso](programa/Programa-ma1-2026.pdf){:target="_blank"}
-
 ### Horario
 <div id='id-horario'/>
 
@@ -35,7 +30,7 @@
 
 * [M. Hassett y D. Stewart (2006). *Probability for Risk Management*.](https://libgen.li/ads.php?md5=61ea60eb85fa21d6bf13f68c0f5eb87b){:target="_blank"}
 
-* [Asimow y Maxwell. *Probability and Statistics with Applications: A Problem Solving Text*.](){:target="_blank"}
+* [Asimow y Maxwell. *Probability and Statistics with Applications: A Problem Solving Text*.](x){:target="_blank"}
 
 * [S. A. Klugman, H. H. Panjer y G. E. Willmot (2019). *Loss Models: from data to decisions*. 5a ed.](https://libgen.li/ads.php?md5=d767d444f12588f6c85e1f1424787a52){:target="_blank"}
 
